@@ -12,7 +12,10 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 <h4>Desafio 02 - Conceitos do Node.js</h4>
 
 1. [Desafio-02](https://github.com/Anna18921/goStack-12-desafio-conceitos-nodejs/tree/master/src) - Done :heavy_check_mark:
-  - Instalação das dependências: yarn add 
+ 
+2. Instalação: 
+ - git clone https://github.com/Anna18921/goStack-12-desafio-02-conceitos-nodejs.git
+ - Instalação das dependências: yarn add 
    
    <h4> Implementar as rotas da API para atender as especificações do teste implementado para validar o desafio: </h4>
    <br/>
